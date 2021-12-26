@@ -1,2 +1,2 @@
 # ConwayGameOfLife
-## https://pranavsitaraman.github.io/ConwayGameOfLife
+## https://pranavsitaraman.github.io/ConwayGameOfLife/
